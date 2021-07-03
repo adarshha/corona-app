@@ -1,4 +1,4 @@
-# corona_class
+# Live Corona Update App
 
 A new Flutter project.
 
